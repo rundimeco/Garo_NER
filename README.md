@@ -1,5 +1,7 @@
 # Garo_NER
 
+Données texte initiales : https://lejeunegael.fr/resources/2022/corpora_txt.zip
+
 Comparaison de listes d'éntités pour établir des rapprochements. Trois fonctions dans tools_compare.py :
 
  - get_similar_two_lists(list1, list2): compare deux listes d'entités
